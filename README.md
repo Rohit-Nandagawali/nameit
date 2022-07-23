@@ -1,7 +1,7 @@
 
 ## Name It!
 This is a react app which helps to generate random name for startup or for your new project, you just have to enter keyword related to your project or startup and this app will generate random names for you.
--[Go to Nameit! ](https://rohit-nandagawali.github.io/nameit/)
+- [Go to Nameit! ](https://rohit-nandagawali.github.io/nameit/)
 
 
 ## Include the fonts s in index.html
