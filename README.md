@@ -26,10 +26,20 @@ Library used to generate random startup names
 
 ## How to run this app
 
-1. `git clone git clone https://github.com/Rohit-Nandagawali/nameit`
-2. `npm install`
-3. `npm start`
+1. Clone the repository 
+ ```
+ git clone git clone https://github.com/Rohit-Nandagawali/nameit
+ ```
+ 
+2. Install all the required packages 
+```
+npm install
+```
 
+3. Run the project
+```
+npm start
+```
 ## Special Thanks
 
 - Header image - https://user-images.githubusercontent.com/26179770/106359099-693e3380-6336-11eb-8069-9e36f25de5ca.png
